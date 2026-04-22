@@ -42,3 +42,9 @@ body {
 #lienzo-seis{
     border: 2px solid #F000FF;
 }
+#lienzo-dos-hidden{
+    border: 2px solid #FFA239;
+}
+.hidden{
+display: none;
+}
